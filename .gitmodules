@@ -1,0 +1,27 @@
+[submodule "fortran-fpm"]
+	path = fortran-fpm
+	url = https://aur.archlinux.org/fortran-fpm.git
+[submodule "fortran-fpm-bin"]
+	path = fortran-fpm-bin
+	url = https://aur.archlinux.org/fortran-fpm-bin.git
+[submodule "molden"]
+	path = molden
+	url = https://aur.archlinux.org/molden.git
+[submodule "gbtolib"]
+	path = gbtolib
+	url = https://aur.archlinux.org/gbtolib.git
+[submodule "ukrmol-in"]
+	path = ukrmol-in
+	url = https://aur.archlinux.org/ukrmol-in.git
+[submodule "ukrmol-out"]
+	path = ukrmol-out
+	url = https://aur.archlinux.org/ukrmol-out.git
+[submodule "tptable-git"]
+	path = tptable-git
+	url = https://aur.archlinux.org/tptable-git.git
+[submodule "opencoarrays-git"]
+	path = opencoarrays-git
+	url = https://aur.archlinux.org/opencoarrays-git.git
+[submodule "opencoarrays"]
+	path = opencoarrays
+	url = https://aur.archlinux.org/opencoarrays.git
