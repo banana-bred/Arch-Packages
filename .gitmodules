@@ -25,3 +25,6 @@
 [submodule "opencoarrays"]
 	path = opencoarrays
 	url = https://aur.archlinux.org/opencoarrays.git
+[submodule "openmolcas"]
+	path = openmolcas
+	url = https://aur.archlinux.org/openmolcas.git
